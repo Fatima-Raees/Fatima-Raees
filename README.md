@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Fatima Raees 👋</h1>
 
-<h3 align="center">Full-Stack Engineer · 2 Engineering Roles · 4 Projects · Fresh Grad, UET Lahore 2026</h3>
+<h3 align="center">Application Security Analyst | Full-Stack Engineer · 2 Engineering Roles · 4 Projects · Fresh Grad, UET Lahore 2026</h3>
+<p align="center"><img src="https://cdn-images.tryhackme.com/public-profile/MasterMindYouKnow/badge-dark-38cd655f6c59.png" alt="MasterMindYouKnow's TryHackMe badge." width="400">
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/fatima-r2004"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
